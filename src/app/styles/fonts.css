@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Supercell-Magic";
+  src: url("./fonts/Supercell-Magic.eot");
+  src: url("./fonts/Supercell-Magic.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/Supercell-Magic.woff") format("woff"),
+    url("./fonts/Supercell-Magic.ttf") format("truetype"),
+    url("./fonts/Supercell-Magic.svg#Supercell-Magic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "Clash Text";
+  src: url("./fonts/ClashTextRegular.eot");
+  src: url("./fonts/ClashTextRegular.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/ClashTextRegular.woff") format("woff"),
+    url("./fonts/ClashTextRegular.ttf") format("truetype"),
+    url("./fonts/ClashTextRegular.svg#ClashTextRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "CCBackBeat";
+  src: url("./fonts/CCBackBeat-Light.eot");
+  src: url("./fonts/CCBackBeat-Light.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/CCBackBeat-Light.woff") format("woff"),
+    url("./fonts/CCBackBeat-Light.ttf") format("truetype"),
+    url("./fonts/CCBackBeat-Light.svg#CCBackBeat-Light") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: "BadaBoom BB";
+  src: url("./fonts/BadaBoomBB.eot");
+  src: url("./fonts/BadaBoomBB.eot?#iefix") format("embedded-opentype"),
+    url("./fonts/BadaBoomBB.woff") format("woff"),
+    url("./fonts/BadaBoomBB.ttf") format("truetype"),
+    url("./fonts/BadaBoomBB.svg#BadaBoomBB") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
